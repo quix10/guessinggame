@@ -1,2 +1,2 @@
-guessinggame.sh:
-	touch guessinggame.sh
+README.md:
+	touch README.md
